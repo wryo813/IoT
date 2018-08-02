@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoT</string>
+    <string name="action_settings">デバイスを追加</string>
+</resources>
